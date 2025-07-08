@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm a student who's just starting to learn coding 👋
 
 <!--
 **unwlo/unwlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
